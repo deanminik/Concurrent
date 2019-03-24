@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package proyectofinal;
+package proconcu;
 
 /**
  *
  * @author DeanBF
  */
-public class ProyectoFinal {
+public class ProConcu {
 
     /**
      * @param args the command line arguments

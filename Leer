@@ -1,4 +1,17 @@
 Proyecto concurrente cliente servidor
 
+Desarrollar competencias en la generación de código empresarial.
+Identificar áreas de mejora en los sistemas de facturación existentes.
+Diseñar y construir los métodos necesarios para la elaboración de un sistema
+de facturación que sea utilizable para una empresa real.
+Implementar un programa eficiente donde el usuario cliente pueda ingresar
+los datos necesarios para el envío de facturas.
+Combinar los diferentes conocimientos adquiridos durante las lecciones en un
+proyecto que se pueda implementar en ámbitos laborales.
+Parte de la ambición es que la factura sea capaz de enviarse por correo electrónico,
+donde va a ser necesaria la comunicación entre el cliente (quien se encuentra
+generando la factura) y el servidor encargado del envío de correos. Durante la
+elaboración de esta característica, se evaluará el protocolo de envío de información
+que sea de mayor conveniencia para las expectativas del proyecto.
 Gente!
 Aqui vamos a poner todos los comentarios de las nuevas cosas que quieren agregar
